@@ -164,3 +164,13 @@ a {
 	justify-content: space-between;
 	align-items: center;
 }
+
+.footer {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #e5e7eb;
+	font-size: 18px;
+	padding-top: 16px;
+	padding-bottom: 16px;
+}
