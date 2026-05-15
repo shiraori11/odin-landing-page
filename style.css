@@ -16,11 +16,9 @@ a {
 .header,
 .footer,
 .information-section,
-.quote-section,
-.call-to-action-section {
+.quote-section {
 	padding: 0 10%;
 }
-
 
 .header {
 	display: flex;
@@ -90,6 +88,7 @@ a {
 	font-size: 18px;
 	color: #e5e7eb;
 	background-color: #3882f6;
+	border-color: #e5e7eb;
 	font-weight: bold;
 	border-radius: 8px;
 }
@@ -149,4 +148,15 @@ a {
 	color: #1f2937;
 	font-weight: bold;
 	align-self: flex-end;
+}
+
+.call-to-action-section {
+	color: #e5e7eb;
+	background-color: #3882f6;
+	border-radius: 10px;
+	margin: 0 10%;
+	padding: 28px 128px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
 }
