@@ -8,3 +8,4 @@ This project is the second project in the Odin Project foundation path. It's to 
 - CSS
 - Basic Understanding of Website Layout
 - Flexbox
+- Debugging
