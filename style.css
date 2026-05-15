@@ -73,7 +73,7 @@ a {
 	flex-direction: column;
 	flex-wrap: wrap;
 	/* justify-content: center; */
-	padding: 0 28px;
+	/* padding: 0 28px; */
 	gap: 4px;
 	/* justify-content: space-between; */
 }
@@ -132,6 +132,7 @@ a {
 .quote-section {
 	display: flex;
 	flex-direction: column;
+	flex-wrap: wrap;
 	background-color: #e5e7eb;
 	padding-top: 36px;
 	padding-bottom: 36px;
