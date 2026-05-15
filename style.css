@@ -93,3 +93,59 @@ a {
 	font-weight: bold;
 	border-radius: 8px;
 }
+
+.information-section {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.information-section h3 {
+	font-size: 36px;
+	color: #1f2937;
+	font-weight: 900;
+}
+
+.information-content {
+	display: flex;
+	justify-content: center;
+	gap: 24px;
+}
+
+.information-card {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: center;
+	max-width: 200px;
+}
+
+.information-image {
+	height: 200px;
+	width: auto;
+	border-radius: 10px;
+	border-color: #3882f6;
+	border-width: 5px;
+	border-style: solid;
+}
+
+.quote-section {
+	display: flex;
+	flex-direction: column;
+	background-color: #e5e7eb;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+.quote-text {
+	font-size: 36px;
+	color: #1f2937;
+	font-weight: 300;
+}
+
+.quoter {
+	font-size: 18px;
+	color: #1f2937;
+	font-weight: bold;
+	align-self: flex-end;
+}
