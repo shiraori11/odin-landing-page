@@ -104,6 +104,8 @@ a {
 
 .information-section h3 {
 	margin: 0;
+	padding-top: 36px;
+	padding-bottom: 36px;
 	font-size: 36px;
 	color: #1f2937;
 	font-weight: 900;
@@ -138,8 +140,8 @@ a {
 	flex-direction: column;
 	flex-wrap: wrap;
 	background-color: #e5e7eb;
-	padding-top: 48px;
-	padding-bottom: 48px;
+	padding-top: 64px;
+	padding-bottom: 64px;
 }
 
 .quote-text {
