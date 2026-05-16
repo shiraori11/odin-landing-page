@@ -112,6 +112,7 @@ a {
 .information-content {
 	display: flex;
 	justify-content: center;
+	align-items: flex-start;
 	gap: 24px;
 }
 
